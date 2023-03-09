@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Poster Page</title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			font-family: Arial, sans-serif;
+			background-color: #f2f2f2;
+		}
+
+		.container {
+			width: 80%;
+			margin: 0 auto;
+			padding: 20px;
+			background-color: white;
+			box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+		}
+
+		.poster-image {
+			display: block;
+			margin: 0 auto;
+			width: 80%;
+			max-width: 600px;
+			height: auto;
+			margin-bottom: 20px;
+		}
+
+		h1, h2 {
+			text-align: center;
+			margin-top: 0;
+		}
+
+		p {
+			line-height: 1.5;
+			text-align: justify;
+			margin-bottom: 20px;
+		}
+
+		.btn {
+			display: block;
+			margin: 0 auto;
+			padding: 10px 20px;
+			background-color: #2d88ff;
+			color: white;
+			border: none;
+			border-radius: 5px;
+			font-size: 1.2em;
+			cursor: pointer;
+			text-decoration: none;
+			text-align: center;
+			max-width: 200px;
+		}
+
+		.btn:hover {
+			background-color: #1a5fbf;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<img src="f0d86afc-8d0f-4981-a0fc-750e665cbaac.jpg" alt="Poster Image" class="poster-image">
+		<h1>IMBUYE DICKSON</h1>
+		<h2>The Man</h2>
+		<p>Prospective candidate for parliamentary seat, eager to represent and collaborate with constituents, prioritize transparency and achieve positive change.</p>
+		
+        <hr/>
+        <p>TAKING IT HOME</p>
+		<a href="#" class="btn">Learn More</a>
+	</div>
+</body>
+</html>
