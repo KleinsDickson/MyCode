@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Curriculum Vitae</title>
+    <style>
+      body {
+        font-family: 'Times New Roman', serif, 'Britannic Bold';
+        background-color: #f7f7f7;
+        color: #444;
+        padding: 20px;
+      }
+      
+      h1, h2, h3, h4, h5, h6 {
+        font-weight: bold;
+        margin: 0;
+        color: #555;
+      }
+      
+      h1 {
+        font-size: 36px;
+        margin-bottom: 10px;
+      }
+      
+      h2 {
+        font-size: 28px;
+        margin-bottom: 10px;
+      }
+      
+      h3 {
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+      
+      p {
+        margin: 0;
+        font-size: 16px;
+        line-height: 1.5;
+      }
+      
+      .section {
+        margin-bottom: 30px;
+      }
+      
+      .section-header {
+        border-bottom: 2px solid #eee;
+        margin-bottom: 10px;
+        padding-bottom: 5px;
+      }
+      
+      .section-body {
+        margin-top: 10px;
+      }
+      
+      .section-body ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      
+      .section-body ul li {
+        margin-bottom: 10px;
+      }
+      
+      .section-body ul li strong {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="section">
+      <h1>Imbuye Dickson Mang'ula</h1>
+      <p>Electrical and Electronics Engineering</p>
+    </div>
+    
+    <div class="section">
+      <div class="section-header">
+        <h2>Contact Information</h2>
+      </div>
+      <div class="section-body">
+        <p>6200-02000, Nairobi. </p>
+        <p>(+2547)59 744 370</p>
+        <p>dicksonimbuye2000@gmail.com</p>
+      </div>
+    </div>
+    
+    <div class="section">
+      <div class="section-header">
+        <h2>Summary</h2>
+      </div>
+      <div class="section-body">
+        <p>Am a fourth year Electrical and Electronics Engineering student, with added skills such as web development yusing HTML and CSS, Excel sheet, C++ programming </p>
+      </div>
+    </div>
+    
+    <div class="section">
+      <div class="section-header">
+        <h2>My  Proffessional Skills</h2>
+      </div>
+      <div class="section-body">
+        <ul>
+          <li><strong>HTML:</strong> Advanced</li>
+          <li><strong>CSS:</strong> Advanced</li>
+          <li><strong>JavaScript:</strong> Intermediate</li>
+          <li><strong>Excel Sheet:</strong> Intermediate</li>
+          <li><strong>C++:</strong> Intermediate</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="section">
+      <div class="section-header">
+        <h2>Experience</h2>
+      </div>
+      <div class="section-body">
+        <ul>
+          <li>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Imbuye Dickson Mang'ula</h1>
+            <p>Front-end Developer</p>
+            <p>Electrical and Elecrtonics Engineer</p>
+            <p> Wed Design Developer</p>
+            <hr>
+        </div>
+        <div class="main">
+            <h2>Profile</h2>
+            <p>A self-motivated and detail-oriented front-end developer with 3 months  of experience in developing responsive websites and web applications. Proficient in HTML, CSS, JavaScript, and jQuery. Passionate about learning new technologies and improving user experience.</p>
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Python programming</li>
+                <li>C++</li>
+                <li>Bootstrap</li>
+                <li>Responsive Design</li>
+                <li>Excel Sheet</li>
+                <li>C Programming</li>
+                <li>AUTOCAD Design</li>
+                <li>Academic Writing skill</li>
+                <li>SPSS data analysis</li>
+                <li>Excellent Communication skills</li>
+            </ul>
+            
+            <ul>
+                <li>Developed and maintained responsive websites and web applications using HTML, CSS, JavaScript, and jQuery.</li>
+                <li>Collaborated with back-end developers to integrate front-end designs with server-side logic.</li>
+                <li>Optimized website performance and user experience through CSS animations, lazy loading, and other techniques.</li>
+            </ul>
+            <h2>Education</h2>
+            <p>Bachelor of Science in Electrical and Electronics Engineering, Jomo Kenyatta University of Agriculture and Technology (JKUAT) (2019 to Date)</p>
+            <h2>Experience</h2>
+            <h3>Front-end Developer, Varsity Electronics, ROK Industries (2023-Present)</h3>
+            <ul>
+                <li>Developed and maintained responsive websites and web applications using HTML, CSS, JavaScript.</li>
+                <li>Collaborated with back-end developers to integrate front-end designs with server-side logic.</li>
+                <li>Optimized website performance and user experience through CSS animations, lazy loading, and other techniques.</li>
+            </ul>
+        </div>
+        <div class="footer">
+            <p>Email: dicksonimbuye2000@gmail.com | Phone: (+254) 59744370 | Website: kleinsdickson.com</p>
+        </div>
+    </div>
+</body>
+</html>
